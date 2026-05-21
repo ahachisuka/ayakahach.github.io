@@ -18,25 +18,15 @@ To see a full list of publications, please visit my [Google Scholar page](https:
 Feel free to reach me at ah5385 [at] nyu [dot] edu.
 
 ---
-permalink: /
-title: "Selected publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
+"Selected publications"
 
 Hachisuka A*, Shor JD*, Liu XC*, Friedman D, Dugan P, Saez I, Panov FE, Doye W, Devinsky O, Oermann EK, He BJ. Neural and computational mechanisms underlying one-shot perceptual learning in humans. Nature Communications (2026).
 [Link](https://www.nature.com/articles/s41467-026-68711-x)
 
 ---
-permalink: /
-title: "Conference talks & posters"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
+"Conference talks & posters"
 
 Hachisuka, A.*, Baumgarten, T.*, Spector, D., Koenig, L., He B.J. Probing the neural geometry of conscious object category representation in time. Society for Neuroscience, November 2025, San Diego, CA, Poster Presentation.
 
