@@ -13,6 +13,6 @@ Broadly speaking, the questions that fascinate me the most center around how our
 
 Previously, I was a post-baccalaureate research assistant in a laboratory of Dr. Sotiris Masmanidis at UCLA to study reward-guided learning and movement in mice, focusing on the dopaminergic system and striatal circuitry. As an undergraduate student, also at UCLA, I was a research assistant in the laboratory of Dr. Mayank Mehta, studying hippocampal place cell activity in rats as they navigated virtual reality (VR) and real-world environments.
 
-To see a list of publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=uKVqgq4AAAAJ&hl=en).
+To see a full list of publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=uKVqgq4AAAAJ&hl=en).
 
 Feel free to reach me at ah5385 [at] nyu [dot] edu.
