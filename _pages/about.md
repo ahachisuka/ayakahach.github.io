@@ -32,4 +32,4 @@ Hachisuka A\*, Shor JD\*, Liu XC\*, Friedman D, Dugan P, Saez I, Panov FE, Doye 
 
 Hachisuka, A.\*, Baumgarten, T.\*, Spector, D., Koenig, L., He B.J. Probing the neural geometry of conscious object category representation in time. Society for Neuroscience, November 2025, San Diego, CA, Poster Presentation.
 
-Mapping the invariance properties of perceptual priors in one-shot perceptual learning. VSS, May 2023, St. Pete's Beach, Florida, Oral Presentation.
+Hachisuka A, Shor JD, Liu XC, Oermann EK, He BJ. Mapping the invariance properties of perceptual priors in one-shot perceptual learning. VSS, May 2023, St. Pete's Beach, Florida, Oral Presentation.
