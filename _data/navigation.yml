@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conference Presentations"
-    url: /conference/    
+  #- title: "Conference Presentations"
+  #  url: /conference/    
 
   #- title: "Teaching"
   #  url: /teaching/    
