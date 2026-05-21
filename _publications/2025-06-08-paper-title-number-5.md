@@ -1,3 +1,3 @@
-Hachisuka A, Baumgarten T, Spector D, Koenig L, He BJ (2025). Probing the neural geometry of conscious object categorization in time. Society for Neuroscience, Poster.
+Hachisuka, A.*, Baumgarten, T.*, Spector, D., Koenig, L., He B.J. Probing the neural geometry of conscious object category representation in time. Society for Neuroscience, November 2025, San Diego, CA, Poster Presentation.
 
-Hachisuka A, Shor JD, Liu XC, Oermann EK, He BJ (2023). Mapping the invariance properties of perceptual priors in one-shot perceptual learning. Vision Sciences Society, Oral presentation.
+Mapping the invariance properties of perceptual priors in one-shot perceptual learning. VSS, May 2023, St. Pete's Beach, Florida, Oral Presentation.
