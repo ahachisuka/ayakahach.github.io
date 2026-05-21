@@ -15,7 +15,7 @@ Previously, I was a post-baccalaureate research assistant in a laboratory of Dr.
 
 To see a full list of publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=uKVqgq4AAAAJ&hl=en).
 
-Feel free to reach me at ah5385 [at] nyu [dot] edu.
+You can reach me at ah5385 [at] nyu [dot] edu.
 
 ---
 
